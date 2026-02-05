@@ -1,0 +1,11 @@
+__pycache__/
+.env
+venv/
+.env.*
+*.log
+*.db
+*.sqlite3
+chroma/
+faiss_index/
+data/
+uploads/
