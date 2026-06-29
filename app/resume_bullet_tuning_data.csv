@@ -1,0 +1,25 @@
+input,output
+"Rewrite this weak or descriptive resume bullet point into a strong, metrics-driven, action-oriented bullet point using the Google X-Y-Z formula (Accomplished [X] as measured by [Y], by doing [Z]):
+""Implemented JWT-based authentication""","""Secured user accounts by implementing JWT-based authentication and Role-Based Access Control (RBAC) using Spring Security, reducing unauthorized access vulnerabilities to zero.""
+
+Rationale: Adds context, tools used (Spring Security, RBAC), and a clear security outcome."
+"Rewrite this weak or descriptive resume bullet point into a strong, metrics-driven, action-oriented bullet point using the Google X-Y-Z formula (Accomplished [X] as measured by [Y], by doing [Z]):
+""Designed an intuitive UI with streamlined navigation; independently managed full deployment pipeline and content organisation.""","""Designed and deployed a responsive UI using HTML/CSS and JavaScript, improving resource accessibility for 200+ students and reducing navigation time by 30%.""
+
+Rationale: Quantifies the impact on navigation and specifies the technologies used."
+"Rewrite this weak or descriptive resume bullet point into a strong, metrics-driven, action-oriented bullet point using the Google X-Y-Z formula (Accomplished [X] as measured by [Y], by doing [Z]):
+""Engineered semantic search with document embeddings stored in a vector database, achieving high-accuracy retrieval across large document sets.""","""Engineered semantic search using document embeddings and a vector database, improving document retrieval accuracy by 25% across 1,000+ unstructured files.""
+
+Rationale: Introduces specific metrics (25% accuracy improvement, 1,000+ files) to make the achievement concrete."
+"Rewrite this weak or descriptive resume bullet point into a strong, metrics-driven, action-oriented bullet point using the Google X-Y-Z formula (Accomplished [X] as measured by [Y], by doing [Z]):
+""Responsible for managing daily office tasks and supporting team members.""","""Streamlined administrative workflows, reducing task completion time by 15% and enhancing team productivity by providing comprehensive support to 10+ staff members.""
+
+Rationale: Added specific metrics (15% reduction, 10+ staff) and stronger action verbs (Streamlined, enhancing) to quantify impact."
+"Rewrite this weak or descriptive resume bullet point into a strong, metrics-driven, action-oriented bullet point using the Google X-Y-Z formula (Accomplished [X] as measured by [Y], by doing [Z]):
+""Helped customers with their issues and answered questions.""","""Resolved an average of 50+ customer inquiries daily with a 95% satisfaction rate, improving customer retention by 10% through effective problem-solving and clear communication.""
+
+Rationale: Introduced quantifiable metrics (50+ inquiries, 95% satisfaction, 10% retention) and emphasized impact on business outcomes."
+"Rewrite this weak or descriptive resume bullet point into a strong, metrics-driven, action-oriented bullet point using the Google X-Y-Z formula (Accomplished [X] as measured by [Y], by doing [Z]):
+""Worked on a project to improve the company website.""","""Contributed to a cross-functional team project that redesigned the company website, resulting in a 25% increase in user engagement and a 15% reduction in bounce rate within three months of launch.""
+
+Rationale: Specified contribution to a team, added concrete results (25% increase, 15% reduction), and provided a timeframe for impact."

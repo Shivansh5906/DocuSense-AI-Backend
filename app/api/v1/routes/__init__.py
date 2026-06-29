@@ -1,4 +1,5 @@
 from .health import router as health
 from .upload import router as upload
-from .query import router as query
-from .summary import router as summary
+from .auth import router as auth
+from .resume_routes import router as resume
+
