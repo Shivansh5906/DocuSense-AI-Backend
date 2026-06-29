@@ -4,6 +4,7 @@ python-dotenv
 pydantic-settings
 langchain
 google-generativeai
+google-genai
 chromadb
 pypdf
 python-docx
