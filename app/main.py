@@ -16,7 +16,8 @@ origins = [
     "http://127.0.0.1:5173",
     "http://localhost:5174",
     "http://127.0.0.1:5174",
-    "https://docusensebot.netlify.app/"
+    "https://docusensebot.netlify.app",
+    "https://hilarious-hamster-b3d9cb.netlify.app",
 ]
 
 env_origins = os.getenv("ALLOWED_ORIGINS")
